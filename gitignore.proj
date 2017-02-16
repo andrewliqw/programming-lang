@@ -1,0 +1,11 @@
+# emacs backup file
+*~
+
+# cloud 9 settings
+.c9/
+
+# python 2.7 virtual environment
+py27venv/
+
+# python 3.5 virtual environment
+py35venv/
