@@ -89,6 +89,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+# nodejs
+npm-global/
+node_modules/
+
 # emacs backup file
 *~
 
@@ -100,3 +104,6 @@ py27venv/
 
 # python 3.5 virtual environment
 py35venv/
+
+# temporary directory
+tmp/
